@@ -1,0 +1,48 @@
+h2{
+    text-align: center;
+}
+
+.container-booking .selected-appt{
+    font-size: 1.5rem;
+}
+
+.container-booking{
+    width: 60%;
+    margin: 4rem auto;
+    padding: 1rem 2rem;
+    text-align: center;
+    box-shadow: 0px 2px 4px 4px rgb(0 0 0 / .2);
+}
+
+.container-booking form{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.container-booking input{
+    margin-right: 6px;
+    padding: 10px 18px;
+    color: gray;
+}
+
+form .book-button{
+    margin: 0 auto;
+}
+
+.book-button{
+    font-size: 1rem;
+    background-color: #0292d3;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 8px;
+    width: 120px;
+    padding: 10px 0;
+}
+
+.dialog{
+    padding: 1rem 2rem;
+}

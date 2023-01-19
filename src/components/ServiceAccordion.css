@@ -1,0 +1,15 @@
+.accordion{
+    box-shadow: 0px 2px 3px 3px rgb(0 0 0 / .1);
+}
+
+#panel1a-header{
+    padding: 1rem 2rem;
+    margin-left: 4rem;
+}
+
+.serviceTitle{
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: gray;
+}
+
